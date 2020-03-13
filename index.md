@@ -1,9 +1,9 @@
 --- 
 layout: default
-title: Test Title
+title: Nicole Mattison
 description: Test Description
 ---
 
-# My First Heading
+# Projects, Documents and Code
 
 [Go to code Folder](/code/index.md)
