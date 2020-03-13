@@ -5,7 +5,7 @@ description: MSBA Program
 ---
 
 # Profile 
-Highly motivated self-starter with more than five years of experience in Finance, Accounting and Analytics. Expert in Compliance and Regulations-knowledgeable of US GAAP, Auditing Standards, and OMB policy. Strong computer skills with an ability to quickly learn new systems. Organized and detail oriented with exceptional written, verbal, and interpersonal skills. Excellent with time management and problem solving. Skills included, preparing financial statements, budgeting, reconciliations, and audit testing.
+Highly motivated self-starter with more than five years of experience in Finance, Accounting and Analytics. Expert in Compliance and Regulations-knowledgeable of US GAAP, Auditing Standards, and OMB policy. Strong computer skills with an ability to quickly learn new systems. Organized and detail oriented with exceptional written, verbal, and interpersonal skills. Excellent with time management and problem solving. Skills included, preparing financial statements, internal audit and analytics.
 
 # Education Background
 Masters of Business Analytics - College of William and Mary - May 2020
