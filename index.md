@@ -1,7 +1,7 @@
 --- 
 layout: default
 title: Nicole Mattison
-description: Test Description
+description: MSBA Program
 ---
 
 # Projects, Documents and Code
