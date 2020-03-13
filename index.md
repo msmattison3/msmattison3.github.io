@@ -23,5 +23,5 @@ Secret Clearance - March 2018
 CPA Readiness 150/150 Credits
 
 # Projects. Documents. Code.
-[Go to code Folder](/code/index.md)
+[View Documents](/code/index.md)
 
