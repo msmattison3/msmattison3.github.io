@@ -1,10 +1,9 @@
-# Hello from the code folder
+# Projects, Documents, and Code
 
 - [View Jupyter Notebook](https://github.com/msmattison3/msmattison3.github.io/blob/master/11-0.py)
 - [Download Jupyter Notebook](https://github.com/msmattison3/msmattison3.github.io/blob/master/11-0.py)
 
-Here are some other demos:
-- ![Here is a picture](https://github.com/msmattison3/msmattison3.github.io/blob/master/code/2019-07-25%20(52).png)
-
-Here is a link to a Youtube video:
-- [![Click to view Youtube video](https://youtu.be/hEgO047GxaQ)
+# Machine Learning
+- [View Best Subset Select](https://github.com/msmattison3/Git-Hub-Page/blob/master/Best%20Subset%20Selection.R)
+- [View Ridge Regression and the Lasso](https://github.com/msmattison3/Git-Hub-Page/blob/master/Ridge%20Regressioon%20and%20the%20Lasso.R)
+- [Tree_Method](https://github.com/msmattison3/Git-Hub-Page/blob/master/Tree%20Method.R)
